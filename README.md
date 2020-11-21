@@ -1,0 +1,2 @@
+# MOSAL
+Multiobjective sequence alignment
